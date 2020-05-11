@@ -1,0 +1,27 @@
+* {
+  text-align: center;
+}
+
+nav {
+  background-color: black;
+  color: white;
+}
+
+#sub-banner {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+
+#featured-section-text {
+  float: right;
+}
+
+#featured-section-banner {
+  float: left;
+}
+
+footer {
+  background-color: black;
+  color: white;
+}
