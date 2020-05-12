@@ -7,9 +7,19 @@ nav {
   color: white;
 }
 
+#placeholdernav {
+  float: left;
+}
+
+#hero-image {
+  padding-top: 30px;
+}
+
 #sub-banner {
   margin-left: 30px;
   margin-right: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 /* #featured-section-banner {
